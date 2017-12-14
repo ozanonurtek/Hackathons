@@ -13,7 +13,7 @@ List of hackathons that I participated
 - [Results](https://twitter.com/STAGECoPlatform/status/810583820743352321)
 
 ## BNP Paribas International Hackathon 2016
--Looking for resources.
+- Looking for resources.
 
 ## Speed Hackathon Renewable Energy 2016
 - [Website](https://www.hackevents.co/hackathon/turkey/izmir/1629-speed-hackathon-renewable-energy-2016)
@@ -28,12 +28,12 @@ List of hackathons that I participated
 
 ## GDG İzmir HackingFest 2016
 
--[Website](https://www.facebook.com/events/608654209290741/)
--[Code](https://github.com/team-orca/GDG-Izmir-HackingFest)
--[Results](https://twitter.com/IzmirGDG/status/730666344723582976)
+- [Website](https://www.facebook.com/events/608654209290741/)
+- [Code](https://github.com/team-orca/GDG-Izmir-HackingFest)
+- [Results](https://twitter.com/IzmirGDG/status/730666344723582976)
 
 ## InterTech CodeTheBank-2 Hackathon 2016
 
--[Website](http://www.intertech.com.tr/tr/CodeTheBank.aspx)
--[Code](https://github.com/team-orca/CodeTheBank-2-Hackathon)
--[Results](https://twitter.com/intertechIT/status/716903192240500736)
+- [Website](http://www.intertech.com.tr/tr/CodeTheBank.aspx)
+- [Code](https://github.com/team-orca/CodeTheBank-2-Hackathon)
+- [Results](https://twitter.com/intertechIT/status/716903192240500736)
