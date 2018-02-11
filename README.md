@@ -13,6 +13,7 @@ List of hackathons that I participated
 - [Results](https://twitter.com/STAGECoPlatform/status/810583820743352321)
 
 ## BNP Paribas International Hackathon 2016
+- [Results](http://www.hurriyet.com.tr/teb-hayati-kolaylastirmak-icin-yazilimcilari-yaristirdi-40123200)
 - Looking for resources.
 
 ## Speed Hackathon Renewable Energy 2016
